@@ -1,5 +1,5 @@
 {
-  "name": "is-foo",
+  "name": "@ovandenbosch/is-foo",
   "version": "1.0.0",
   "description": "Checks if a string is \"foo\"",
   "main": "index.js",
