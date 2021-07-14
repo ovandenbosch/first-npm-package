@@ -1,0 +1,19 @@
+{
+  "name": "is-foo",
+  "version": "1.0.0",
+  "description": "Checks if a string is \"foo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovandenbosch/first-npm-package.git"
+  },
+  "author": "Oliver van den Bosch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovandenbosch/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ovandenbosch/first-npm-package#readme"
+}
